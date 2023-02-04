@@ -256,10 +256,10 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 20px;
 }
 .gs-section-03 h3 { 
-     color: darked }
+     color: green }
 
 .gs-section-03 p {
-     font-size: 10px;
+     font-size: 15px;
 }  
 
 </style>  
