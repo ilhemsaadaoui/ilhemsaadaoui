@@ -1,4 +1,3 @@
-
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll
@@ -250,25 +249,25 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 p {
      font-size: 30px;
 }
-
-.gs-section-02 p {
-  line-height: 1.8;
-  padding-bottom: 80px;
-  }
-  
+   
 .gs-section-02 h3 {
   color: darkred;
   font-size: 40px;
-}    
-
-.gs-section-03 p {
-  line-height: 1.5;
-  padding-bottom: 70px;
-  }
+}  
+     
+.gs-section-02 p {
+  line-height: 1.8;
+  padding-bottom: 80px;
+}     
   
 .gs-section-03 h3 {
   color: blue;
   font-size: 40px;
-}    
+}  
+     
+.gs-section-03 p {
+  line-height: 1.5;
+  padding-bottom: 70px;
+}     
 
 </style>
