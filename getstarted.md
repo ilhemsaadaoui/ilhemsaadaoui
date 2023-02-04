@@ -250,10 +250,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 p {
      font-size: 30px;
 }
-     
-</style>
 
-<style>
 .gs-section-02 p {
   line-height: 1.8;
   padding-bottom: 80px;
@@ -264,9 +261,6 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
   font-size: 40px;
 }    
 
-</style>
-
-<style>
 .gs-section-03 p {
   line-height: 1.5;
   padding-bottom: 70px;
